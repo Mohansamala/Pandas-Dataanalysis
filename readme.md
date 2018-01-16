@@ -83,7 +83,7 @@ marks["MSc"]=marks["Maths %"]+marks["Science %"] #perecentage of marks in maths 
 
 and plotting based on two states south and rest of india
 ### plot
-
+![alt text](mSc.png "southindians(blue) vs rest indians performance in maths and science")
 ![data-analysis/mSc.png](attachment:image.png)
 
 ## No
