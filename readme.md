@@ -74,7 +74,7 @@ pivot.head()
 
 ### Graph
 
-![performance.png](attachment:image.png)
+![data-analysis/performance.png](attachment:image.png)
 By plot we can decide  Girls perform better
 ## Does southindian excel at math and science ?
 creating a dataframe which contains maths and science marks
@@ -84,7 +84,7 @@ marks["MSc"]=marks["Maths %"]+marks["Science %"] #perecentage of marks in maths 
 and plotting based on two states south and rest of india
 ### plot
 
-![mSc.png](attachment:image.png)
+![data-analysis/mSc.png](attachment:image.png)
 
 ## No
 
