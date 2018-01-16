@@ -73,8 +73,8 @@ pivot.columns=["Boy","Girl"]
 pivot.head()
 
 ### Graph
+![alt text](performance.png "perfoormance of boys and girls")
 
-![data-analysis/performance.png](attachment:image.png)
 By plot we can decide  Girls perform better
 ## Does southindian excel at math and science ?
 creating a dataframe which contains maths and science marks
