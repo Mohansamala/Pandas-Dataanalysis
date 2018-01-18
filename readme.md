@@ -20,10 +20,10 @@ import matplotlib.cm as cm
 import matplotlib.pyplot as plt
 
 ### 1.Loading  of data and counting no of null values 
-Maths %                   92661 out of 185348
-Reading %                 92073
-Science %                 94342
-Social %                  95765
+Maths %                   92661 out of 185348           
+Reading %                 92073           
+Science %                 94342      
+Social %                  95765        
 ### 2.finding and deleting duplicates
 duplicates=marks[marks.duplicated()] #detecting number of duplicates
 duplicates.shape
@@ -42,16 +42,16 @@ marks.head()
 arr=marks.dtypes=="object"
 marks.columns[arr]
 
-otput:Index(['State', 'Use computer', 'Subjects'], dtype='object')
-marks['Use computer'] = marks['Use computer'].map({"Yes":1,"No":0})
-marks['Subjects'] = marks['Subjects'].map({'L':1, 'S':2, 'O':3, 'M':4, '0':0})
-marks['Use computer'].head()
+output:Index(['State', 'Use computer', 'Subjects'], dtype='object')      
+marks['Use computer'] = marks['Use computer'].map({"Yes":1,"No":0})          
+marks['Subjects'] = marks['Subjects'].map({'L':1, 'S':2, 'O':3, 'M':4, '0':0})              
+marks['Use computer'].head()       
 
 output:0    0.0
-1    0.0
+1    0.        
 2    0.0
-3    0.0
-4    0.0
+3    0.0          
+4    0.0                   
 Name: Use computer, dtype: float64
 
 # Questions
@@ -86,6 +86,6 @@ and plotting based on two states south and rest of india
 ![alt text](mSc.png "southindians(blue) vs rest indians performance in maths and science")
 
 
-## No
+## No ,
 
 ### Thankyou
