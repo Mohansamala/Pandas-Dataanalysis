@@ -37,12 +37,12 @@ Data collected not only involves marks but also different aspects of students  i
      After analysing the data ,   following are deduced                                        
              1.In12 states Boys perform better than girls            
              2.In 21 states Girls  perform better than boys                    
-             3.     state records in best(max) performance of boys                
-             4.    state records in best(ma)   performance of girls                  
-             5.     state accounts for maxdifference between girls and boys with      
-             6.     state accounts for mindifference between girls   and boys with      
-             7.      state accounts for poor performance of boys and     state for girls       
-   Code snippet can be 
+             3.  DD   state records in best(max) performance of boys  with average 189             
+             4.  DD  state records in best(ma)   performance of girls  195                
+             5. KL   state accounts for maxdifference between girls and boys with  8.30    
+             6. DN   state accounts for mindifference between girls   and boys with 0.39    
+             7. PY     state accounts for poor performance of boys (136) and  PY   state for girls with 141       
+   
     
 
 ### Graph
