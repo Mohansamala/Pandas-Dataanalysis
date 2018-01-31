@@ -26,7 +26,8 @@ Data collected not only involves marks but also different aspects of students  i
  
 
 ### 3.handling nans
-    Presence of above 90000 nans in three columns can affect data analysis .if all nans are removed then analysis will be losing 90000 rows which will impact data analysis                             
+    Presence of above 90000 nans in three columns can affect data analysis .if all nans are removed 
+    then analysis will be losing 90000 rows which will impact data analysis                             
     Filling of nans using mean will be a better                         
 
 # Questions               
@@ -50,15 +51,19 @@ Data collected not only involves marks but also different aspects of students  i
 
 By plot  and analysis  we can state that  girls perform better than Boys  overall.
 ## Does southindian excel at math and science ?
-creating a dataframe which contains maths and science marks
 
-marks["MSc"]=marks["Maths %"]+marks["Science %"] #perecentage of marks in maths and science MSc        
+TO know whether South indians excel in Math and Science,States are divied into two 
+    1. South india  ["AP","TN","KL","KA","PY"]
+    2. Rest Of india ['AN',  'AR', 'BR', 'CG', 'CH', 'DD', 'DL', 'DN', 'GA','GJ', 'HP', 'HR',
+       'JH', 'JK',  'MG', 'MH', 'MN', 'MP', 'MZ', 'NG', 'OR', 'PB',  'RJ', 'SK',  'TR', 'UK','UP', 'WB']
+ 
+ Average of performance in Subjects Math and Science are calucated  and are compared with each other
+ 
 
-and plotting based on two states south and rest of india          
+      
 ### plot
 ![alt text](mSc.png "southindians(blue) vs rest indians performance in maths and science")           
 
+After analysis ,it is concluded that Rest of India perform better than South india in Maths and Science
 
-## No ,
 
-### Thankyou
