@@ -32,22 +32,25 @@ Data collected not only involves marks but also different aspects of students  i
 
 # Questions       
 ## What influences students performance the most ?                                
-Students performance is affected by factors like father education,occupation,watching tv etc.By summarising data using pivot following are deduced
-       Top factors that influence peformance:
-                                performance
-            Mother edu           80.856567
-            Father occupation    80.094206
-            Mother occupation    79.119641
-            Father edu           79.096714
-            Use Internet         76.549502
-     Top factors that doesnOt influence peformance much:
-                                performance
-            Gender             68.980816
-            Like school        70.074740
-            Help in Study      70.645384
-            Handicap           70.951269
-            Private tuition    71.366002
+  Students performance is affected by factors like father education,occupation,watching tv etc.By summarising data using pivot following are deduced       
+  
+        Top factors that influence peformance:                       
+                                performance                   
+            Mother edu           80.856567 
+            Father occupation    80.094206         
+            Mother occupation    79.119641      
+            Father edu           79.096714            
+            Use Internet         76.549502           
+     Top factors that doesnOt influence peformance much:            
+                                performance          
+            Gender             68.980816            
+            Like school        70.074740            
+            Help in Study      70.645384         
+            Handicap           70.951269          
+            Private tuition    71.366002                   
 Code can be found in question1.ipynb
+![alt text](factor.png "performance of students vs Factors")           
+
 
 ## How do boys and girls perform across states?                                
 
@@ -69,16 +72,18 @@ Code can be found in question1.ipynb
 By plot  and analysis  we can state that  girls perform better than Boys  overall.
 ## Does southindian excel at math and science ?
 
-TO know whether South indians excel in Math and Science,States are divied into two 
+TO know whether South indians excel in Math and Science,States are divied into two        
     1. South india  ["AP","TN","KL","KA","PY"]
     2. Rest Of india ['AN',  'AR', 'BR', 'CG', 'CH', 'DD', 'DL', 'DN', 'GA','GJ', 'HP', 'HR',
        'JH', 'JK',  'MG', 'MH', 'MN', 'MP', 'MZ', 'NG', 'OR', 'PB',  'RJ', 'SK',  'TR', 'UK','UP', 'WB']
  
-   Average of performance in Subjects Math and Science are calucated  and are compared with each other
-   Top performance of students in maths and science  [ 86.84753456] in the state ['DD']    
-   Poor performance of students in maths and science  [ 62.13869848] in the state ['PY']       
-   Average of performance in Subjects Math and Science are calucated  and are compared with each other         
-               Average of southindians is  [ 64.79045937] 
+   Average of performance in Subjects Math and Science are calucated  and are compared with each other 
+   
+      Top performance of students in maths and science  [ 86.84753456] in the state ['DD']    
+      Poor performance of students in maths and science  [ 62.13869848] in the state ['PY']       
+   Average of performance in Subjects Math and Science are calucated  and are compared with each other    
+   
+                Average of southindians is  [ 64.79045937] 
                Average of restofindians is  [ 69.69098351] 
 
  
