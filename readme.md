@@ -29,9 +29,9 @@ Data collected not only involves marks but also different aspects of students  i
     Presence of above 90000 nans in three columns can affect data analysis .if all nans are removed 
     then analysis will be losing 90000 rows which will impact data analysis                             
     Filling of nans using mean will be a better                         
-
+Data Loading and Data transformation code and clear explanation can  be found in nas data transformation.ipynb
 # Questions       
-## What influences students performance the most ?                                
+## 1.What influences students performance the most ?                                
   Students performance is affected by factors like father education,occupation,watching tv etc.By summarising data using pivot following are deduced       
   
         Top factors that influence peformance:                       
@@ -52,7 +52,7 @@ Code can be found in question1.ipynb
 ![alt text](factor.png "performance of students vs Factors")           
 
 
-## How do boys and girls perform across states?                                
+## 2.How do boys and girls perform across states?                                
 
     Performance of student is calucated by the average of marks in subjects MATHS,SCIENCE,SOCIAL,READING after filling the nan values in these columns using mean method(fillna) .                           
      After analysing the data ,   following are deduced                                        
@@ -70,7 +70,8 @@ Code can be found in question1.ipynb
 ![alt text](performance.png "perfoormance of boys and girls")
 
 By plot  and analysis  we can state that  girls perform better than Boys  overall.
-## Does southindian excel at math and science ?
+Code can be found in question2.ipynb
+## 3.Does southindian excel at math and science ?
 
 TO know whether South indians excel in Math and Science,States are divied into two        
     1. South india  ["AP","TN","KL","KA","PY"]
@@ -93,5 +94,6 @@ TO know whether South indians excel in Math and Science,States are divied into t
 ![alt text](mSc.png "southindians(blue) vs rest indians performance in maths and science")           
 
 After analysis ,it is concluded that Rest of India perform better than South india in Maths and Science
+Code can be found in question3.ipynb
 
 
