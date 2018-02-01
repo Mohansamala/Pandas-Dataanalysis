@@ -48,7 +48,7 @@ Data Loading and Data transformation code and clear explanation can  be found in
             Help in Study      70.645384         
             Handicap           70.951269          
             Private tuition    71.366002                   
-Code can be found in question1.ipynb
+Code can be found in question1.ipynb              
 ![alt text](factor.png "performance of students vs Factors")           
 
 
@@ -69,7 +69,7 @@ Code can be found in question1.ipynb
 ### Graph
 ![alt text](performance.png "perfoormance of boys and girls")
 
-By plot  and analysis  we can state that  girls perform better than Boys  overall.
+By plot  and analysis  we can state that  Girls perform better than Boys  overall.         
 Code can be found in question2.ipynb
 ## 3.Does southindian excel at math and science ?
 
@@ -93,7 +93,7 @@ TO know whether South indians excel in Math and Science,States are divied into t
 ### plot
 ![alt text](mSc.png "southindians(blue) vs rest indians performance in maths and science")           
 
-After analysis ,it is concluded that Rest of India perform better than South india in Maths and Science
+After analysis ,it is concluded that Rest of India perform better than South india in Maths and Science                          
 Code can be found in question3.ipynb
 
-
+### Note: Accuracy of analysis depends on how Nans are handled.Answer to questions may vary dependng on the method choosen for filling Nans in Data.filling nan can be done by various aspects either by filling zero or filling with mean or filling with interpolation methods.
