@@ -96,4 +96,4 @@ TO know whether South indians excel in Math and Science,States are divied into t
 After analysis ,it is concluded that Rest of India perform better than South india in Maths and Science                          
 Code can be found in question3.ipynb
 
-### Note: Accuracy of analysis depends on how Nans are handled.Answer to questions may vary dependng on the method choosen for filling Nans in Data.filling nan can be done by various aspects either by filling zero or filling with mean or filling with interpolation methods.
+### Note: Accuracy of analysis depends on how Nans are handled.Answer to questions may vary dependng on the method choosen for filling Nans in Data. Filling Nans can be done by various aspects either by filling zero or filling with mean or filling with interpolation methods.
